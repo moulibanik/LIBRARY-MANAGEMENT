@@ -1,0 +1,2 @@
+# LIBRARY-MANAGEMENT
+A simple SQL-based LIBRARY MANAGEMENT system
