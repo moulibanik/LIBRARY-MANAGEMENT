@@ -55,14 +55,12 @@ This project is a simple SQL-based Library Management System. It helps manage bo
 ## 🖼 ER Diagram
 
 The EER Diagram (ERD) visually represents table relationships and keys.  
-📎 File: Library_ER_Diagram.png
 
 ---
 
 ## 📜 SQL Schema
 
 The SQL file contains table definitions with primary keys, foreign keys, and constraints.  
-📎 File: create_schema.sql
 
 ---
 
@@ -70,7 +68,7 @@ The SQL file contains table definitions with primary keys, foreign keys, and con
 
 1. Open *MySQL Workbench*
 2. Connect to your local MySQL server
-3. Open create_schema.sql
+3. Open lib.sql
 4. Execute the script to create the database and tables
 5. Use the diagram or queries to start inserting and managing data
 
